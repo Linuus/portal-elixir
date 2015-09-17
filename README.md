@@ -25,3 +25,6 @@ iex(5)> Portal.push_right(portal)
 [1, 2] <=> [3, 4]
 >
 ```
+
+TODO:
+- Example of running on distributed nodes.
